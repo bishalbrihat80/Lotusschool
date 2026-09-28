@@ -1,0 +1,92 @@
+{
+  "school": {
+    "name": "Shree Lotus English Boarding School",
+    "address": "Sallaghari-11, Amargadhi, Dadeldhura, Sudurpashchim Province, Nepal",
+    "established": "2061 BS",
+    "type": "Private, English Medium",
+    "classes": "Nursery, LKG, UKG and Grade 1 to 8",
+    "phone": "+977984-8777472",
+    "email": "",
+    "mapQuery": "Shree Lotus English Boarding School, Sallaghari-11, Amargadhi, Dadeldhura, Nepal"
+  },
+  "principal": {
+    "name": "Yagya Bahadur Ayer",
+    "role": "Principal",
+    "phone": "+977984-8777472",
+    "email": "",
+    "message": "Welcome to Shree Lotus English Boarding School. We are committed to providing a disciplined, supportive and student-centred learning environment where children can build strong academic foundations and good character."
+  },
+  "chairperson": {
+    "name": "Padam Bahadur Ayer",
+    "role": "Chairperson",
+    "phone": "+977986-4771724",
+    "email": "",
+    "message": "Our aim is to support quality education, responsible citizenship and the overall development of every learner through cooperation among students, parents, teachers and the school community."
+  },
+  "staff": {
+    "principal": 1,
+    "teachers": 11,
+    "helper": 1
+  },
+  "facilities": [
+    {
+      "title": "Computer Lab",
+      "icon": "💻",
+      "description": "Computer-based learning and digital skills."
+    },
+    {
+      "title": "Science Lab",
+      "icon": "🔬",
+      "description": "Practical science activities and demonstrations."
+    },
+    {
+      "title": "Canteen",
+      "icon": "🍽️",
+      "description": "School canteen facility."
+    },
+    {
+      "title": "Hostel",
+      "icon": "🏠",
+      "description": "Residential facility for students where applicable."
+    },
+    {
+      "title": "Playground",
+      "icon": "⚽",
+      "description": "Sports and outdoor activities."
+    }
+  ],
+  "gallery": [
+    {
+      "image": "gallery-classroom.jpg",
+      "title": "Classroom Learning",
+      "description": "Students participating in a classroom learning session."
+    },
+    {
+      "image": "gallery-learning.jpg",
+      "title": "Reading and Learning Activity",
+      "description": "Students engaged in reading and classroom activities."
+    },
+    {
+      "image": "gallery-training.jpg",
+      "title": "Learning and Professional Activity",
+      "description": "Participants attending an educational training and learning programme."
+    }
+  ],
+  "slides": [
+    {
+      "image": "gallery-classroom.jpg",
+      "title": "Learning with Purpose",
+      "description": "A classroom scene showing students actively engaged in learning."
+    },
+    {
+      "image": "gallery-learning.jpg",
+      "title": "Students at the Centre",
+      "description": "Students taking part in reading and classroom activities."
+    },
+    {
+      "image": "gallery-training.jpg",
+      "title": "Growing Together",
+      "description": "An educational programme focused on learning and professional development."
+    }
+  ]
+}

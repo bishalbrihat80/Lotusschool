@@ -1,0 +1,18 @@
+[
+  {
+    "symbol": "DEMO001",
+    "dob": "2015-01-15",
+    "name": "Demo Student",
+    "status": "Active",
+    "class": "Grade 5",
+    "remark": "Demo record. Replace with authorised student records."
+  },
+  {
+    "symbol": "DEMO002",
+    "dob": "2014-07-20",
+    "name": "Sample Student",
+    "status": "Active",
+    "class": "Grade 6",
+    "remark": "Demo record. Replace with authorised student records."
+  }
+]

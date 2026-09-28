@@ -1,0 +1,80 @@
+[
+  {
+    "day": "Sunday",
+    "periods": [
+      "Assembly",
+      "1st Period",
+      "2nd Period",
+      "3rd Period",
+      "Break",
+      "4th Period",
+      "5th Period"
+    ]
+  },
+  {
+    "day": "Monday",
+    "periods": [
+      "Assembly",
+      "1st Period",
+      "2nd Period",
+      "3rd Period",
+      "Break",
+      "4th Period",
+      "5th Period"
+    ]
+  },
+  {
+    "day": "Tuesday",
+    "periods": [
+      "Assembly",
+      "1st Period",
+      "2nd Period",
+      "3rd Period",
+      "Break",
+      "4th Period",
+      "5th Period"
+    ]
+  },
+  {
+    "day": "Wednesday",
+    "periods": [
+      "Assembly",
+      "1st Period",
+      "2nd Period",
+      "3rd Period",
+      "Break",
+      "4th Period",
+      "5th Period"
+    ]
+  },
+  {
+    "day": "Thursday",
+    "periods": [
+      "Assembly",
+      "1st Period",
+      "2nd Period",
+      "3rd Period",
+      "Break",
+      "4th Period",
+      "5th Period"
+    ]
+  },
+  {
+    "day": "Friday",
+    "periods": [
+      "Assembly",
+      "1st Period",
+      "2nd Period",
+      "3rd Period",
+      "Break",
+      "4th Period",
+      "5th Period"
+    ]
+  },
+  {
+    "day": "Saturday",
+    "periods": [
+      "School Holiday / Special Programme"
+    ]
+  }
+]

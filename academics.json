@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Early Childhood",
+    "classes": "Nursery, LKG, UKG",
+    "description": "Foundation learning through age-appropriate language, numeracy, creative and social activities."
+  },
+  {
+    "title": "Primary Level",
+    "classes": "Grade 1–5",
+    "description": "Core academic learning with emphasis on foundational skills, discipline, creativity and participation."
+  },
+  {
+    "title": "Basic Level",
+    "classes": "Grade 6–8",
+    "description": "Subject-focused learning, practical activities, assessment and preparation for the next level."
+  }
+]

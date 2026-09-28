@@ -1,0 +1,16 @@
+{
+  "steps": [
+    "Collect or download the admission form from the school office.",
+    "Complete the student's details accurately.",
+    "Submit required documents to the school office.",
+    "Attend any required interaction, assessment or interview.",
+    "Complete admission and fee formalities after confirmation."
+  ],
+  "documents": [
+    "Birth certificate or equivalent document",
+    "Previous school academic record, where applicable",
+    "Recent passport-size photographs",
+    "Other documents requested by the school"
+  ],
+  "note": "Admission dates, fees and seat availability should be confirmed directly with the school office."
+}
